@@ -95,7 +95,7 @@ function Profile() {
           <div className="text-center">
             <h1 className="text-4xl font-bold mb-4">Welcome to Our App</h1>
             <p className="text-lg text-gray-600 mb-8">Please log in to continue.</p>
-            <Link to="https://magical-elf-e19ee2.netlify.app/login" className="bg-blue-500 text-white font-semibold py-3 px-6 rounded-lg text-lg hover:bg-blue-700">Log In</Link>
+            <Link to="/login" className="bg-blue-500 text-white font-semibold py-3 px-6 rounded-lg text-lg hover:bg-blue-700">Log In</Link>
           </div>
         </div>
       );

@@ -118,7 +118,7 @@ function SignupPage() {
         </form>
         <p className="text-gray-600 text-sm mt-2">
           Already have an account?{' '}
-          <a href="https://magical-elf-e19ee2.netlify.app/login" className="text-blue-500">
+          <a href="/login" className="text-blue-500">
             Register here
           </a>
         </p>

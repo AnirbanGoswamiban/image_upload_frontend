@@ -106,7 +106,7 @@ function LoginPage() {
         </form>
         <p className="text-gray-600 text-sm mt-2">
           Don't have an account?{' '}
-          <a href="https://magical-elf-e19ee2.netlify.app/signup" className="text-blue-500">
+          <a href="/signup" className="text-blue-500">
             Sign up here
           </a>
         </p>
